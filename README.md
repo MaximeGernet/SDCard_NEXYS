@@ -8,7 +8,7 @@ The image format on the SD Card has to be 640*480, with 24 bits per pixel coded 
 It is possible to store up to three images on the card, and to switch the image displayed by using the left and right buttons of the NEXYS 4.  
 The project has been tested with SDHC and SDSC cards.
 
-To store an image on the SD card, follow these steps...
+To store an image on the SD card, follow these steps:
 
 1.	If you are using windows, erase the first sector of the SD card so that windows won't recognize the file system.  
 Otherwise, windows won't allow you to write directly to the card.
