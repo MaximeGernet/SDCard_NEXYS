@@ -1,9 +1,10 @@
 # SDCard_NEXYS
 Author : Maxime Gernet
 
-The goal of this project is to read a raw image on a SD Card and to display it on a screen through a VGA port. It is designed for the NEXYS 4.
+The goal of this project is to read a raw image on a SD Card and to display it on a screen through a VGA port.\n
+It is designed for the NEXYS 4.
 
-The image format on the SD Card has to be 640*480, with 24 bits per pixel coded in RGB.
+The image format on the SD Card has to be 640*480, with 24 bits per pixel coded in RGB.\n
 It is possible to store up to three images on the card, and to switch the image displayed by using the left and right buttons of the NEXYS 4.
 The project has been tested with SDHC and SDSC cards.
 
