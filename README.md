@@ -14,7 +14,8 @@ To store an image on the SD card, follow these steps...
 Otherwise, windows won't allow you to write directly to the card.
 
 2.	Copy the raw image data to the SD card. It is possible to do it by using HxD.  
-Remember the number of the first sector of the image.
+Remember the number of the first sector of the image.  
+A test image is provided in the file raw_img.txt.
 
 3.	Change the value of one of the three offsets in the first process of the file FSM.vhd (line 59).  
 The offset is the first sector of the image.
