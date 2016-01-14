@@ -1,5 +1,5 @@
 # SDCard_NEXYS
-## Author : Maxime Gernet
+#### Author : Maxime Gernet
 
 The goal of this project is to read a raw image on a SD Card and to display it on a screen through a VGA port.  
 It is designed for the NEXYS 4.
